@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushpak Maheshwari</h1>
 <h3 align="center">On my journey to explore computer science</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+<img align="right" alt="Coding" width="400" src="[https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473i7n9w76mtcxid2dsi9kj1z8ykwj12pixr0uzndx&rid=giphy.gif&ct=g)">
 
 - 🔭 I’m currently studying **Data Structures and Algorithms**
 
